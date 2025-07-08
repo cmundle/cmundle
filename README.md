@@ -1,6 +1,6 @@
 # Christopher Mundle
 
-## Product Designer & UI Developer based in Toronto, Canada  
+## Product Designer & Designer Engineer based in Toronto, Canada  
 
 Christopher has over 10 years of experience crafting engaging and intuitive solutions for various domains, including e-commerce, finance, legal and enterprise software. His experiences have reached millions of users worldwide.
 
